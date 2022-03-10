@@ -51,3 +51,10 @@ CustomBackgroundColor.args = {
     label: "My Label",
     backgroundColor: "#e286ff",
 };
+
+export const CustomFontColor = Template.bind({});
+CustomFontColor.args = {
+    size: "normal",
+    label: "My Label",
+    fontColor: "#802f0f",
+};
